@@ -614,4 +614,4 @@ async def blackjack(interaction: discord.Interaction, bet: int):
 
 
 
-client.run('MTM1Nzc1NTc1NzU1ODIzNTM3OQ.GdQWck.NKxCXUGNOZWArbrclBjSwBI7UWtCX0kZ6GIEms')
+client.run('')
