@@ -31,5 +31,5 @@ A PROJECT BY: TOM STANLY,ROHIT ANTONY,KAUSHIKSAI YAKKALA
 
 
 FOR MORE INFO ON THE BOT:
-visit our discord server: https://discord.gg/Z2df8T5b
-visit our demo: https://youtube.com/shorts/CYMqjFK1fEY
+🤖visit our discord server: https://discord.gg/Z2df8T5b
+▶️visit our demo: https://youtube.com/shorts/CYMqjFK1fEY
